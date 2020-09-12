@@ -27,8 +27,7 @@
     "description": "Description v2"
   },
   "layouts.application.about": {
-    "message": "About",
-    "description": "About button text"
+    "message": "About"
   },
   "layouts.application.account": {
     "message": "Account"
