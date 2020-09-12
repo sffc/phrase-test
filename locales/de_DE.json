@@ -24,7 +24,7 @@
   },
   "layouts.application.about": {
     "message": "Über",
-    "description": "About button text"
+    "description": "About button text via Phrase UI"
   },
   "layouts.application.account": {
     "message": "Konto"
