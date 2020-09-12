@@ -1,0 +1,13 @@
+phrase:
+  access_token: b36c9f23336d3388feecc40d0a4c419fa7d9ae3e0e546060e26bc0c7b29083a2
+  project_id: b84fea8310fffff9321e61a8699c5ef2
+  push:
+    sources:
+    - file: ./locales/<locale_name>.arb
+      params:
+        file_format: arb
+  pull:
+    targets:
+    - file: ./locales/<locale_name>.arb
+      params:
+        file_format: arb
