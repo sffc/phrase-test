@@ -23,7 +23,8 @@
     "description": "Greeting description"
   },
   "layouts.application.about": {
-    "message": "About"
+    "message": "About",
+    "description": "About button text"
   },
   "layouts.application.account": {
     "message": "Account"
