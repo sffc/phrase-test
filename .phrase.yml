@@ -3,11 +3,11 @@ phrase:
   project_id: b84fea8310fffff9321e61a8699c5ef2
   push:
     sources:
-    - file: ./locales/<locale_name>.arb
+    - file: ./locales/<locale_name>.json
       params:
-        file_format: arb
+        file_format: json
   pull:
     targets:
-    - file: ./locales/<locale_name>.arb
+    - file: ./locales/<locale_name>.json
       params:
-        file_format: arb
+        file_format: json
