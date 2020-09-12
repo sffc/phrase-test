@@ -3,7 +3,8 @@
     "message": "zurück"
   },
   "general.cancel": {
-    "message": "abbrechen!"
+    "message": "abbrechen!",
+    "description": "Cancel button text"
   },
   "general.confirm": {
     "message": "Bist du sicher?"
