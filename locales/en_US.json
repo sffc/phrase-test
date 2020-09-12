@@ -22,6 +22,10 @@
     "message": "Hello, {{name}}!",
     "description": "Greeting description"
   },
+  "hello2": {
+    "message": "Hello World, v2",
+    "description": "Description v2"
+  },
   "layouts.application.about": {
     "message": "About",
     "description": "About button text"
