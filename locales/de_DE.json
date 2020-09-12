@@ -1,0 +1,42 @@
+{
+  "general.back": {
+    "message": "zurück"
+  },
+  "general.cancel": {
+    "message": "abbrechen"
+  },
+  "general.confirm": {
+    "message": "Bist du sicher?"
+  },
+  "general.destroy": {
+    "message": "Löschen"
+  },
+  "general.edit": {
+    "message": "Bearbeiten"
+  },
+  "general.new": {
+    "message": "Neu"
+  },
+  "hello": {
+    "message": "Hallo {{name}}!",
+    "description": "Greeting description"
+  },
+  "layouts.application.about": {
+    "message": "Über"
+  },
+  "layouts.application.account": {
+    "message": "Konto"
+  },
+  "layouts.application.app_store": {
+    "message": "App Store"
+  },
+  "layouts.application.imprint": {
+    "message": "Impressum"
+  },
+  "layouts.application.logout": {
+    "message": "Abmelden"
+  },
+  "layouts.application.my_mails": {
+    "message": "Meine Mails"
+  }
+}
