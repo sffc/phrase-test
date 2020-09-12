@@ -3,7 +3,8 @@
     "message": "Back"
   },
   "general.cancel": {
-    "message": "Cancel"
+    "message": "Cancel",
+    "description": "Cancel button text"
   },
   "general.confirm": {
     "message": "Are you sure?"
